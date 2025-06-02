@@ -26,3 +26,5 @@ This repository showcases how to use AWS Elastic Load Balancing (ELB) to automat
 
 # References
 https://www.youtube.com/watch?v=qpHLRc4Qt1E
+
+https://www.youtube.com/watch?v=ZGGpEwThhrM
